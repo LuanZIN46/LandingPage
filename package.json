@@ -1,0 +1,17 @@
+{
+  "name": "meu-portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npm --prefix meu run dev",
+    "build": "npm --prefix meu run build",
+    "preview": "npm --prefix meu run preview",
+    "lint": "npm --prefix meu run lint",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
