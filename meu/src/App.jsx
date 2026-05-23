@@ -9,7 +9,7 @@ import Footer from './components/Footer/Footer.jsx';
 import './App.css';
 
 function App() {
-
+  {/* update */}
   return (
     <div className="app-container">
       <Header/>
@@ -24,5 +24,6 @@ function App() {
       </div>
   )
 }
+
 
 export default App
